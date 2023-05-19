@@ -1,0 +1,17 @@
+{
+  "name": "cypress-prueba",
+  "version": "1.0.0",
+  "description": "Aprendiendo cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "David Olivero",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.12.0"
+  }
+}
